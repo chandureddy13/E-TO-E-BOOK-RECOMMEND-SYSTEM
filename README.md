@@ -1,20 +1,21 @@
 # E-TO-E-BOOK-RECOMMEND-SYSTEM
 
+'''bash
+conda create -n books python==3.7.10 -y
 '''
-BASH-N: conda create -n books python==3.7.10 -y
-'''
-'''/bash/
+'''bash
 conda acivate books
 '''
-'''bash/
+'''bash
 pip install -r requirements.txt
 '''
 
-''' TO check the environments:
+'''bash
+TO check the environments:
 conda env'''
 
-"""
+"""bash
 git add .
 git commit -m "realme updated"
-
+git push origin main
 """

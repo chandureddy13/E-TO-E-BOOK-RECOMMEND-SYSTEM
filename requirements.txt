@@ -1,3 +1,6 @@
-pandas
+scikit-learn 
+pandas 
 numpy
-scikit-learn
+PyYAML
+streamlit
+-e .
